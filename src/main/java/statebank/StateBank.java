@@ -28,6 +28,7 @@ public class StateBank {
         salim.setName("Salim Hossain");
         salim.setMobile(5757);
         salim.setDeposite(0);
+        salim.setAddress("Mirpur 12");
         
 //        System.out.print(salim.getDeposite());
         sb.depositeMoney(salim, 60000);
